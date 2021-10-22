@@ -1,0 +1,6 @@
+PyMySQL==0.10.0
+pytest==6.2.4
+allure_python_commons==2.9.44
+DBUtils==2.0.1
+base==1.0.4
+PyYAML==6.0
