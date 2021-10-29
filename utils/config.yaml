@@ -1,0 +1,12 @@
+test1:
+  host: 'http://106.14.37.200:8000/'
+  username: 'admin'
+  password: '123456'
+test2:
+  host: '10.1.6.13'
+  redis_host: 'localhost'
+  port: 80
+  username: 'script'
+  password: '123456a.'
+
+
